@@ -1,1 +1,2 @@
-Error: Could not find or load main class main.Main
+log4j:WARN No appenders could be found for logger (charva.awt.Component).
+log4j:WARN Please initialize the log4j system properly.
